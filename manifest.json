@@ -1,0 +1,26 @@
+{
+  "userData": [
+    {
+      "nombre": "Angel Cristino",
+      "fecha": "miércoles, 07 de junio de 2023",
+      "tipoBeca": "Escolar",
+      "nombreBeca": "Benito",
+      "semestre": 8,
+      "promedio": 10,
+      "correo": "test@test.com",
+      "contraseña": "123456",
+      "recordar": false
+    },
+    {
+      "nombre": "Brandon",
+      "fecha": "sábado, 22 de abril de 2023",
+      "tipoBeca": "Buen promedio",
+      "nombreBeca": "Becalos",
+      "semestre": 8,
+      "promedio": 10,
+      "correo": "brandon@test.com",
+      "contraseña": "123456",
+      "recordar": true
+    }
+  ]
+}
